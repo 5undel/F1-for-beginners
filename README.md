@@ -28,3 +28,4 @@ _home page_
 - Add text info about team and race.
 - Add link in text for team and race description.
 - Add image to the description text.
+![image](https://user-images.githubusercontent.com/87757401/129555195-8a4e8361-1c87-485e-a328-483ef67ae19e.png)
