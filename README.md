@@ -23,3 +23,8 @@ __home page image__
 __home page text__
 - Add paragraf text about Foruma One. this paragraf text will allow the user to get a understanding about Foruma One.
 - ![image](https://user-images.githubusercontent.com/87757401/129480173-89faf67f-67d6-405b-a27d-6e3a408ec92c.png)
+
+_home page_
+- Add text info about team and race.
+- Add link in text for team and race description.
+- Add image to the description text.
