@@ -25,8 +25,8 @@ __home page text__
 - ![image](https://user-images.githubusercontent.com/87757401/129480173-89faf67f-67d6-405b-a27d-6e3a408ec92c.png)
 
 _home page_
-- Add text info about team and race.
-- Add link in text for team and race description.
+- Add text info about team and race to make it easyer for the user to understand where the link takes them.
+- Add link in text for team and race description for easyer access to the pages.
 - Add image to the description text.
 - 
 ![image](https://user-images.githubusercontent.com/87757401/129555195-8a4e8361-1c87-485e-a328-483ef67ae19e.png)
