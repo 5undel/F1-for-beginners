@@ -116,3 +116,13 @@ padding-right: 50px;
     color:#730217;
 }
 
+/*team page*/
+
+/*hero img*/
+.team-hero-img{
+    width: 100%;   
+}
+.p-team{
+    padding-left: 50px;
+    padding-right: 50px;
+}
