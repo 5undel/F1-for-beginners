@@ -41,3 +41,7 @@ _team page_
 - User will be able to easely see the team and current driver for the team.
 - User will be able to read short info about the driver/team
 ![image](https://user-images.githubusercontent.com/87757401/129704759-0410ee17-456a-4670-9c6b-b56389bca699.png)
+- fix border background to list
+- User will find it easyer to read list
+![image](https://user-images.githubusercontent.com/87757401/129741611-60f44e61-de90-4d3c-b4cf-731474b5f334.png)
+
