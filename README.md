@@ -37,7 +37,7 @@ _home page_
 
 
 _team page_
--Add team list to page.
--User will be able to easely see the team and current driver for the team.
--User will be able to read short info about the driver/team
+- Add team list to page.
+- User will be able to easely see the team and current driver for the team.
+- User will be able to read short info about the driver/team
 ![image](https://user-images.githubusercontent.com/87757401/129704759-0410ee17-456a-4670-9c6b-b56389bca699.png)
