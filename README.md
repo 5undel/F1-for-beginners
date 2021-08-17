@@ -30,3 +30,7 @@ _home page_
 - Add image to the description text.
 - 
 ![image](https://user-images.githubusercontent.com/87757401/129555195-8a4e8361-1c87-485e-a328-483ef67ae19e.png)
+
+
+- Fix layout on image and text for team & race.
+- ![image](https://user-images.githubusercontent.com/87757401/129692416-7454c280-2036-4541-9ffe-321b00ab332e.png)
