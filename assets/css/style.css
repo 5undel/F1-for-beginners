@@ -74,6 +74,7 @@ padding-right: 50px;
 
 
 /* info teams */
+
 .box1{
     padding-top: 30px;
     padding-left: 100px;
@@ -83,7 +84,7 @@ padding-right: 50px;
     }
 .box1-img{
 
-    width: 33%;
+    width: 55%;
     height: 100%;  
 }
 
@@ -106,7 +107,7 @@ padding-right: 50px;
 }
 .box2-img{
 
-    width: 33%;
+    width: 55%;
     height: 100%;     
 }
 #home-race-link{
@@ -130,6 +131,8 @@ padding-right: 50px;
     padding-right: 50px;
 }
 
-li{
-    font-weight: bold;
-}
+#team-list{
+    width: 80%;
+    padding: 5px 5px;
+    background-color: rgba(115, 2, 23, .7);
+    border-radius: 3%;}
