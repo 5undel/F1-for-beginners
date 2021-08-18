@@ -115,6 +115,7 @@ c
 #fast-link{
     height: 400px;
     display: flex;
+    
 }
 .team-image {
     background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash.jpg);
@@ -240,4 +241,16 @@ c
 
 .team-right li {
     font-weight: bold;
+}
+
+/*race page*/
+.hero-image3 {
+    background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash.jpg);
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
