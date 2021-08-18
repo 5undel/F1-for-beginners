@@ -241,6 +241,13 @@ c
     background-size: cover;
     position: relative;
 }
+#race-weekend {
+    text-align: center;
+}
+#race-weekend, p {
+    text-align: center;
+    
+}
 
 #race-week {
     height: 600px;

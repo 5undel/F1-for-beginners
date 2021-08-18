@@ -34,3 +34,7 @@ _team page_
 - User will be able to read short info about the driver/team
 ![image](https://user-images.githubusercontent.com/87757401/129917736-3fbfda9c-93dc-41b4-9a58-7b26b88193dc.png)
 
+_race page_
+-Add hero image on page 
+-Add practic text to page
+-Add quali text to page
