@@ -47,3 +47,149 @@ h1, h2 {
 .active{
    border-bottom: 1px solid #3a3a3a;
 }
+
+/* hero image*/
+
+.hero-image1 {
+    background-image: url(../image/gustavo-campos-B87zMorEZRo-unsplash.jpg);
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+/*What is formula One ?*/
+#foruma-one{
+    height: 600px;
+
+}
+
+#left-side{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    
+}
+#rigth-side{
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    
+}
+
+
+hr {
+    border-top:1px solid #3a3a3a ;
+    width: 100%;
+    margin: 5px;
+}
+
+.left-line{
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+.rigth-line{
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+#f1, h2 {
+    text-align: center;
+}
+
+#f1{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 200%;
+}
+
+/*fast-link*/
+
+#fast-link{
+    height: 400px;
+    display: flex;
+}
+.team-image {
+    background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash.jpg);
+    height: 300px;
+    width: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 50%;
+}
+#team {
+    padding-left: 15%;
+    width: 40%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+
+}
+.race-image {
+    background-image: url(../image/moritz-graf-1wEQgY0pyL0-unsplash.jpg);
+    height: 300px;
+    width: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 50%;
+}
+#race {
+    padding-left: 15%;
+    width: 40%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+
+#team a {
+    text-decoration: none;
+    color: inherit;
+    }
+    
+#team a:hover{
+    border-bottom: 1px solid #3a3a3a;
+    }
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
+#race a {
+    text-decoration: none;
+    color: inherit;
+    }
+    
+#race a:hover{
+    border-bottom: 1px solid #3a3a3a;
+    }
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
+
+/*team page*/
+
+.hero-image2 {
+    background-image: url(../image/darren-nunis-aKRaaHnlTMI-unsplash.jpg);
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
