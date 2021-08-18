@@ -234,13 +234,15 @@ c
     clear: both;
     margin-bottom: 50px;
 }
-.team-right h3 {
+.rigth-line h3 {
     font-size: 20px;
 }
 
-.team-right li {
+.rigth-line li {
     font-weight: bold;
 }
+
+
 
 /*race page*/
 /*hero image*/
