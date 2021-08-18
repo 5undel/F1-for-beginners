@@ -73,12 +73,14 @@ h1, h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
+    padding-left: 10%;
     
 }
 #rigth-side{
     padding-top: 30px;
     width: 33%;
     float: right;
+    padding-right: 10%;
     
 }
 
