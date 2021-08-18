@@ -1,165 +1,49 @@
-*{
-   
-
-    
-}
-body{
-    font-family: 'Times New Roman', Times, serif;
-    background-color: #516073;
-    color:white;
-    font-size: 20px;
-    font-weight: 300;
+* {
     margin: 0;
     padding: 0%;
     border: none;
 }
 
-/* NAVBAR + logo */
-.nav-bar{
-    position: fixed;
-    width: 100%;
-    font-size: 20px;
-    
-}
- .logo-img{
-     position: absolute;
-     height: 120px;
-     width: 120px;
-    
- }
-
-nav ul{
-    list-style: none;
-    background-color: #516073;
-    height: 90px;
-    text-align: right;
-    color:white;
-    padding: 0;
-    padding-top: 30px;
-    padding-right: 30px;
-    margin:0;
-    
-    }
-
-nav li {
-    font-size: 1.2em;
-    line-height: 40px;
-    height: 40px;
-    display: inline-block;
-    margin: 0.3%;
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: #3a3a3a;
 }
 
-nav a{
-    text-decoration: none;
-    color: white;
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:#252525;
 }
-
-nav a:hover{
-    background-color:#516073;
-    color:#730217;
-}
-
-/* Home page img */
-
-.home-img{
-    width: 100%; 
-    height: 400px;
-    object-fit: cover;
-}
-
-
-/* h1-h3 */
-.h1-h3 {
-   text-align: center; 
-  
-}
-/* About f1 */
-.what-is-f1 {
-padding: 20px;
-background:rgba(115, 2, 23, .7) ;
-border-radius: 3%;
-}
-
-
-/* info teams */
-
-.box1{
-    padding-top: 30px;
-    padding-left: 100px;
-    width: 33%;
+.logo{
     float: left;
-    text-align: center;
-    }
-.box1-img{
-    width: 55%;
-    height: 100%;  
+    font-size: 280%;
+    margin-left: 30px;
+}
+/*menu and logo*/
+.menu-bar {
+    font-size: 110%;
+    letter-spacing: 4px;
+}   
+
+.menu-bar, .logo{
+    line-height: 75px;
 }
 
-#home-team-link{
-    text-decoration: none;
-    color: white;
-}
-
-#home-team-link:hover{
-    background-color:#516073;
-    color:#730217;
-}
-/*info race*/
-.box2{
-    padding-top: 30px;
-    padding-right: 100px;
-    width: 33%;
+.menu li {
     float: right;
-    text-align: center;
+    list-style: none;
+    margin-right: 30px;
 }
-.box2-img{
-    width: 55%;
-    height: 100%;     
-}
-
-#home-race-link{
-    text-decoration: none;
-    color: white;
+.menu a {
+   text-decoration: none;
+   color: inherit;
 }
 
-#home-race-link:hover{
-    background-color:#516073;
-    color:#730217;
+.menu a:hover{
+   border-bottom: 1px solid #3a3a3a;
 }
-
-/*team page*/
-
-/*hero img*/
-.team-hero-img{
-    width: 100%;   
-    height: 400px;
-    object-fit: cover;
+.active{
+   border-bottom: 1px solid #3a3a3a;
 }
-.p-team{
-    padding-left: 50px;
-    padding-right: 50px;
-}
-
-#team-list{
-    width: 80%;
-    padding: 5px 5px;
-    background-color: rgba(115, 2, 23, .7);
-    border-radius: 3%;}
-
-
-    /*Race page*/
-
-#race-hero-img{
-    width: 100%;
-    height: 400px;
-    object-fit: cover;
-}
-
-#race-heading{
-    text-align: center;
-}
-
-
-
-
-   
