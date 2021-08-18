@@ -15,6 +15,7 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color:#252525;
+    padding-top: 5px;
 }
 .logo{
     float: left;
@@ -88,13 +89,7 @@ hr {
     margin: 5px;
 }
 
-.left-line{
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
+c
 .rigth-line{
     width: 60%;
     float: left;
@@ -192,4 +187,41 @@ hr {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
+
+
+#team-text{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.team-left{
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+#team-list{
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+.team-left h3{
+    font-size: 20px;
+}
+.team-right{
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+.team-right h3 {
+    font-size: 20px;
+}
+
+.team-right li {
+    font-weight: bold;
 }
