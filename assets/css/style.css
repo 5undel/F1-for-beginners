@@ -231,6 +231,7 @@ c
 }
 
 /*race page*/
+/*hero image*/
 .hero-image3 {
     background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash.jpg);
     height: 600px;
@@ -241,6 +242,7 @@ c
     background-size: cover;
     position: relative;
 }
+/*race text*/
 #race-weekend {
     text-align: center;
 }
