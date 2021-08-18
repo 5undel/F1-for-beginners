@@ -177,7 +177,7 @@ c
 }
 
 /*team page*/
-
+/*hero image*/
 .hero-image2 {
     background-image: url(../image/darren-nunis-aKRaaHnlTMI-unsplash.jpg);
     height: 600px;
@@ -189,7 +189,21 @@ c
     position: relative;
 }
 
-
+/* text and list */
+.team-text-image{
+    background-image: url(../image/spencer-davis-zHrm7qcU8Zc-unsplash.jpg);
+    height: 300px;
+    width: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 50%;
+    padding-left: 45%;
+    float: left;
+    clear:left;
+    margin-bottom: 50px;
+}
 #team-text{
     padding-top: 30px;
     width: 33%;
