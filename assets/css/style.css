@@ -117,6 +117,18 @@ c
     display: flex;
     
 }
+.header-fast-link a {
+    text-decoration: none;
+    list-style: none;
+   color: inherit;
+   margin-left: 45%;
+}
+.header-fast-link a:hover{
+    border-bottom: 1px solid #3a3a3a;
+ }
+ .active{
+    border-bottom: 1px solid #3a3a3a;
+ }
 .team-image {
     background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash.jpg);
     height: 300px;
@@ -124,7 +136,7 @@ c
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    margin-left: 25%;
     border-radius: 50%;
 }
 #team {
@@ -143,7 +155,7 @@ c
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    margin-left: 25%;
     border-radius: 50%;
 }
 #race {
