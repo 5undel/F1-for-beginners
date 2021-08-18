@@ -1,11 +1,17 @@
+*{
+   
 
+    
+}
 body{
-    margin: 0;
-    padding: 0;
     font-family: 'Times New Roman', Times, serif;
     background-color: #516073;
     color:white;
     font-size: 20px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0%;
+    border: none;
 }
 
 /* NAVBAR + logo */
@@ -85,7 +91,6 @@ border-radius: 3%;
     text-align: center;
     }
 .box1-img{
-
     width: 55%;
     height: 100%;  
 }
@@ -108,10 +113,10 @@ border-radius: 3%;
     text-align: center;
 }
 .box2-img{
-
     width: 55%;
     height: 100%;     
 }
+
 #home-race-link{
     text-decoration: none;
     color: white;
@@ -153,3 +158,8 @@ border-radius: 3%;
 #race-heading{
     text-align: center;
 }
+
+
+
+
+   
