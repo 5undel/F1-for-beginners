@@ -342,5 +342,21 @@ c
         margin-bottom: 20px;
         line-height: 25px;
     }
+    #formula-one{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    .left-line, rigth-side {
+        width: inherit;
+    }
+    .left-line h2, rigth-side h2 {
+        width: 100%;
+        text-align: center;
+    }
     
+    .left-line p, rigth-side p {
+        text-align: center;
+        padding: 0 20px;
+    }
 }
