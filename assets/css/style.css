@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0%;
     border: none;
+    
 }
 
 body {
@@ -65,7 +66,7 @@ h1, h2 {
 
 /*What is formula One ?*/
 #foruma-one{
-    height: 600px;
+    height: 400px;
 
 }
 
@@ -270,6 +271,17 @@ c
     height: 600px;
 }
 
+.quali-list{
+    background-image: url(../image/quali-list.png);
+    height: 300px;
+    width: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 25%;
+    
+}
+
 #left-race{
     padding-top: 30px;
     width: 33%;
@@ -286,3 +298,14 @@ c
     text-align: center; 
 }
 
+.footer {
+    width: 100%;
+    height: 100px;
+    padding: 0 0;
+    margin: 0 auto;
+    background: #d30000;
+    border-top: #d30000 4px solid;
+    bottom: 0px;
+    position: inherit;
+    clear: both;
+}
