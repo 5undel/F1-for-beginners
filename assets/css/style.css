@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0%;
     border: none;
-    
 }
 
 body {
@@ -18,11 +17,13 @@ h1, h2 {
     color:#252525;
     padding-top: 5px;
 }
+
 .logo{
     float: left;
     font-size: 280%;
     margin-left: 30px;
 }
+
 /*menu and logo*/
 .menu-bar {
     font-size: 110%;
@@ -46,12 +47,12 @@ h1, h2 {
 .menu a:hover{
    border-bottom: 1px solid #3a3a3a;
 }
+
 .active{
    border-bottom: 1px solid #3a3a3a;
 }
 
 /* hero image*/
-
 .hero-image1 {
     background-image: url(../image/gustavo-campos-B87zMorEZRo-unsplash.jpg);
     height: 600px;
@@ -60,31 +61,27 @@ h1, h2 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
-    
+    position: relative; 
 }
 
 /*What is formula One ?*/
 #foruma-one{
     height: 400px;
-
 }
 
 #left-side{
     padding-top: 30px;
     width: 33%;
     float: left;
-    padding-left: 10%;
-    
+    padding-left: 10%;   
 }
+
 #rigth-side{
     padding-top: 30px;
     width: 33%;
     float: right;
-    padding-right: 10%;
-    
+    padding-right: 10%;  
 }
-
 
 hr {
     border-top:1px solid #3a3a3a ;
@@ -92,7 +89,6 @@ hr {
     margin: 5px;
 }
 
-c
 .rigth-line{
     width: 60%;
     float: left;
@@ -112,24 +108,26 @@ c
 }
 
 /*fast-link*/
-
 #fast-link{
     height: 400px;
-    display: flex;
-    
+    display: flex;  
 }
+
 .header-fast-link a {
     text-decoration: none;
     list-style: none;
    color: inherit;
    margin-left: 45%;
 }
+
 .header-fast-link a:hover{
     border-bottom: 1px solid #3a3a3a;
  }
+
  .active{
     border-bottom: 1px solid #3a3a3a;
  }
+
 .team-image {
     background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash.jpg);
     height: 300px;
@@ -140,6 +138,7 @@ c
     margin-left: 25%;
     border-radius: 50%;
 }
+
 #team {
     padding-left: 15%;
     width: 40%;
@@ -147,8 +146,8 @@ c
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
-
 }
+
 .race-image {
     background-image: url(../image/moritz-graf-1wEQgY0pyL0-unsplash.jpg);
     height: 300px;
@@ -159,6 +158,7 @@ c
     margin-left: 25%;
     border-radius: 50%;
 }
+
 #race {
     padding-left: 15%;
     width: 40%;
@@ -168,26 +168,28 @@ c
     margin-bottom: 50px;
 }
 
-
 #team a {
     text-decoration: none;
     color: inherit;
-    }
+ }
     
 #team a:hover{
     border-bottom: 1px solid #3a3a3a;
     }
+
 .active{
     border-bottom: 1px solid #3a3a3a;
 }
+
 #race a {
     text-decoration: none;
     color: inherit;
-    }
-    
+ }
+
 #race a:hover{
     border-bottom: 1px solid #3a3a3a;
-    }
+ }
+
 .active{
     border-bottom: 1px solid #3a3a3a;
 }
@@ -206,13 +208,13 @@ c
 }
 
 /* text and list */
-
 #team-text{
     padding-top: 30px;
     width: 33%;
     float: left;
     text-align: center;
 }
+
 .team-left{
     width: 60%;
     float: right;
@@ -220,14 +222,17 @@ c
     clear: both;
     margin-bottom: 50px;
 }
+
 #team-list{
     padding-top: 30px;
     width: 33%;
     float: right;
 }
+
 .team-left h3{
     font-size: 20px;
 }
+
 .team-right{
     width: 60%;
     float: left;
@@ -235,6 +240,7 @@ c
     clear: both;
     margin-bottom: 50px;
 }
+
 .rigth-line h3 {
     font-size: 20px;
 }
@@ -243,8 +249,6 @@ c
     font-weight: bold;
     font-size: 18px;
 }
-
-
 
 /*race page*/
 /*hero image*/
@@ -258,13 +262,14 @@ c
     background-size: cover;
     position: relative;
 }
+
 /*race text*/
 #race-weekend {
     text-align: center;
 }
+
 #race-weekend, p {
-    text-align: center;
-    
+    text-align: center;  
 }
 
 #race-week {
@@ -278,8 +283,7 @@ c
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: 25%;
-    
+    margin-left: 25%;  
 }
 
 #left-race{
@@ -287,9 +291,9 @@ c
     width: 33%;
     float: left;
     padding-left: 10%;
-    text-align: center;
-    
+    text-align: center; 
 }
+
 #rigth-race{
     padding-top: 30px;
     width: 33%;
