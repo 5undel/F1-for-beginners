@@ -66,14 +66,14 @@ h1, h2 {
 
 /*What is formula One ?*/
 #foruma-one{
-    height: 400px;
+    height: 600px;
 }
 
 #left-side{
     padding-top: 30px;
-    width: 33%;
+    width: 53%;
     float: left;
-    padding-left: 10%;   
+    padding-left: 23%;   
 }
 
 #rigth-side{
@@ -97,7 +97,7 @@ hr {
     margin-bottom: 50px;
 }
 
-#f1, h2 {
+#f1{
     text-align: center;
 }
 
