@@ -66,7 +66,7 @@ h1, h2 {
 
 /*What is formula One ?*/
 #foruma-one{
-    height: 600px;
+    height: 500px;
 }
 
 #left-side{
@@ -97,7 +97,7 @@ hr {
     margin-bottom: 50px;
 }
 
-#f1{
+#f1, h3{
     text-align: center;
 }
 
@@ -109,34 +109,20 @@ hr {
 
 /*fast-link*/
 #fast-link{
-    height: 400px;
-    display: flex;  
+    height: 600px; 
+    width: 60%;
+    padding-left: 20%;   
 }
 
-.header-fast-link a {
-    text-decoration: none;
-    list-style: none;
-   color: inherit;
-   margin-left: 45%;
-}
-
-.header-fast-link a:hover{
-    border-bottom: 1px solid #3a3a3a;
- }
-
- .active{
-    border-bottom: 1px solid #3a3a3a;
- }
-
-.team-image {
-    background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash.jpg);
-    height: 300px;
-    width: 300px;
+.fast-img{
+    max-width: 100%;
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: 25%;
-    border-radius: 50%;
+    position: relative; 
+    border-radius: 40%;
+    margin-left: 33%;
 }
 
 #team {
@@ -146,17 +132,6 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
-}
-
-.race-image {
-    background-image: url(../image/moritz-graf-1wEQgY0pyL0-unsplash.jpg);
-    height: 300px;
-    width: 300px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-left: 25%;
-    border-radius: 50%;
 }
 
 #race {
@@ -351,7 +326,7 @@ hr {
         height: 1200px;
         margin: 0 auto;
     }
-    .left-line, rigth-side {
+    .left-line, rigth-side, fast-link {
         width: inherit;
     }
     .left-line h2, rigth-side h2 {
@@ -359,8 +334,19 @@ hr {
         text-align: center;
     }
     
-    .left-line p, rigth-side p {
+    .left-line p, rigth-side p, fast-link p{
         text-align: center;
         padding: 0 20px;
+    }
+}
+/* screen 768 and down*/
+@media only screen and (max-width: 768px) {
+    .fast-img {
+      width: 100%;
+    }
+
+    .fast-img {
+      width: auto;
+      height: 2.5rem;
     }
 }
