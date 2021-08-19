@@ -6,14 +6,12 @@
 html, body {
     overflow-x: hidden;
   }
-
 body {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 300;
     color: #3a3a3a;
     position: relative
 }
-
 h1, h2 {
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
@@ -27,13 +25,11 @@ h1, h2 {
     font-size: 280%;
     margin-left: 30px;
 }
-
 /*menu and logo*/
 .menu-bar {
     font-size: 110%;
     letter-spacing: 4px;
 }   
-
 .menu-bar, .logo{
     line-height: 75px;
 }
@@ -51,12 +47,9 @@ h1, h2 {
 .menu a:hover{
    border-bottom: 1px solid #3a3a3a;
 }
-
 .active{
    border-bottom: 1px solid #3a3a3a;
 }
-
-
 /* hero image*/
 .hero-image1 {
     background-image: url(../image/gustavo-campos-B87zMorEZRo-unsplash.jpg);
@@ -68,7 +61,6 @@ h1, h2 {
     background-size:100%;
     position: relative; 
 }
-
 /*What is formula One ?*/
 #foruma-one{
     height: 500px;
@@ -80,12 +72,11 @@ h1, h2 {
     float: left;
     padding-left: 23%;   
 }
-
-#rigth-side{
+#left-side{
     padding-top: 30px;
-    width: 33%;
-    float: right;
-    padding-right: 10%;  
+    width: 100%;
+    text-align: center;
+    padding-left: 10%;  
 }
 /*line under text om home page*/
 hr {
@@ -93,15 +84,15 @@ hr {
     width: 100%;
     margin: 5px;
 }
-
-.rigth-line{
-    width: 60%;
-    float: left;
+.left-line{
+    width: 80%;
+    text-align: center;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    padding: 0;
 }
-
+/*header*/
 #f1, h3{
     text-align: center;
 }
@@ -111,7 +102,6 @@ hr {
     margin: 20px 0;
     font-size: 200%;
 }
-
 /*fast-link*/
 #fast-link{
     height: 600px; 
@@ -127,9 +117,8 @@ hr {
     background-size: cover;
     position: relative; 
     border-radius: 40%;
-    margin-left: 33%;
+    
 }
-
 /*TEAM PAGE*/
 /*hero image*/
 .hero-image2 {
@@ -142,7 +131,6 @@ hr {
     background-size: cover;
     position: relative;
 }
-
 /* team list */
 #team-text{
     padding-top: 30px;
@@ -195,7 +183,6 @@ hr {
     padding: 0;
     margin: 0;
 }
-
 /*race page*/
 /*hero image*/
 .hero-image3 {
@@ -208,13 +195,15 @@ hr {
     background-size: cover;
     position: relative;
 }
-
 /*race text*/
 /*QUALIFYING kalkyl*/
 .quali-list{
+    max-width: 100%;
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative; 
     max-width:100%;
     height:100%;
     overflow: hidden; 
@@ -231,7 +220,6 @@ hr {
     position: inherit;
     clear: both;
 }
-
 /*Media Q*/
 /* screen from 1200 and down*/
 @media screen and (max-width: 1200px) {
@@ -253,7 +241,6 @@ hr {
         display: none;
     }
 }
-
 /* Media Q*/
 /*screen 950 and down*/
 @media screen and (max-width:950px) {
