@@ -143,32 +143,6 @@ hr {
     margin-bottom: 50px;
 }
 
-#team a {
-    text-decoration: none;
-    color: inherit;
- }
-    
-#team a:hover{
-    border-bottom: 1px solid #3a3a3a;
-    }
-
-.active{
-    border-bottom: 1px solid #3a3a3a;
-}
-
-#race a {
-    text-decoration: none;
-    color: inherit;
- }
-
-#race a:hover{
-    border-bottom: 1px solid #3a3a3a;
- }
-
-.active{
-    border-bottom: 1px solid #3a3a3a;
-}
-
 /*team page*/
 /*hero image*/
 .hero-image2 {
@@ -202,10 +176,12 @@ hr {
     padding-top: 30px;
     width: 33%;
     float: right;
+    text-align: center;
 }
 
-.team-left h3{
+.team-left h2{
     font-size: 20px;
+    text-align: center;
 }
 
 .team-right{
@@ -216,11 +192,12 @@ hr {
     margin-bottom: 50px;
 }
 
-.rigth-line h3 {
+.team-right h2, h2 {
     font-size: 20px;
+    text-align: center;
 }
 
-.rigth-line li {
+.team-left li, .team-right li {
     font-weight: bold;
     font-size: 18px;
 }
