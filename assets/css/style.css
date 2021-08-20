@@ -61,24 +61,15 @@ h1, h2 {
     background-size:100%;
     position: relative; 
 }
-/*What is formula One ?*/
-#foruma-one{
-    height: 500px;
-}
 /*Home page text info*/
-#left-side{
-    padding-top: 30px;
-    width: 53%;
-    float: left;
-    padding-left: 23%;   
-}
-#left-side{
+/*text*/
+.left-side{
     padding-top: 30px;
     width: 100%;
     text-align: center;
     padding-left: 10%;  
 }
-/*line under text om home page*/
+/*line under text on home, team and race page*/
 hr {
     border-top:1px solid #3a3a3a ;
     width: 100%;
@@ -131,7 +122,25 @@ hr {
     background-size: cover;
     position: relative;
 }
+#foruma-one {
+    height: 400px;
+}
+#team-text, #team-list {
+    height: 800px;
+}
 /* team list */
+#only-mobile{
+    width: 80%;
+    text-align: center;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    padding-left: 30px;
+}
+#only-mobile li {
+    font-weight: bold;
+}
+
 #team-text{
     padding-top: 30px;
     width: 33%;
@@ -154,7 +163,7 @@ hr {
     text-align: center;
 }
 /* team list h2 */
-.team-left h2{
+.team-left h2, h2{
     font-size: 20px;
     text-align: center;
 }
@@ -219,6 +228,7 @@ hr {
     bottom: 0px;
     position: inherit;
     clear: both;
+    
 }
 /*Media Q*/
 /* screen from 1200 and down*/
@@ -271,6 +281,9 @@ hr {
 }
 /* screen 768 and down*/
 @media only screen and (max-width: 768px) {
+    body{
+        width: 100%;
+    }
     .fast-img {
       width: 100%;
     }
@@ -279,4 +292,32 @@ hr {
       width: auto;
       height: 2.5rem;
     }
+/*center text on mobil dev*/
+    .left-side {
+        float: left;
+        padding: 0;
+        margin: 0;   
+    }
+    .team-text {
+        float: left;
+        padding: 0;
+        margin: 0;  
+    }
+}
+/*To replace the team list to fit screen*/
+@media screen and (min-width: 0px) and max-width: 768px) {
+    #only-mobile { display: block; }
+    #only-mobile { 
+        padding-left: 30px;
+        margin: 0; 
+    }
+}
+@media screen and (min-width: 769px) {
+        #only-mobile { display: none; }
+}
+      @media screen and (max-width: 1200px)  {
+        #team-text, #team-list { display: none; }
+}
+@media screen and (min-width: 769px) and (max-width: 1200px) {
+        #team-text, #team-list{ display: block; }
 }
