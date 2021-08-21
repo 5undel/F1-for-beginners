@@ -124,17 +124,13 @@ hr {
     background-image: url(../image/darren-nunis-DcPyI0LFgAA-unsplash.jpg);
     width: 100%;
     height: 300px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative; 
+    
 }
 .fast-image2{
     background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash.jpg);
     width: 100%;
     height: 300px;
-    padding: 0;
-    margin: 0;
+    
 }
 /*TEAM PAGE*/
 /*hero image*/
@@ -155,6 +151,7 @@ hr {
     height: 800px;
 }
 /* team list */
+/*team list on smaller screens*/
 #only-mobile{
     width: 80%;
     text-align: center;
@@ -166,7 +163,7 @@ hr {
 #only-mobile li {
     font-weight: bold;
 }
-
+/*team list on  lager screens*/
 #team-text{
     padding-top: 30px;
     width: 33%;
@@ -242,6 +239,17 @@ hr {
     max-width:100%;
     height:100%;
     overflow: hidden; 
+}
+/*Race text*/
+/*race image*/
+.podium {
+    background-image: url(../image/darren-nunis-DcPyI0LFgAA-unsplash.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 /*footer*/
 .footer {
@@ -329,20 +337,20 @@ hr {
         padding: 0;
         margin: 0;  
     }
-}
-/*To replace the team list and hero image to fit screen*/
-@media screen and (min-width: 0px) and max-width: 768px) {
-    #only-mobile { display: block; }
-    #only-mobile { 
-        padding-left: 30px;
-        margin: 0; 
+    .podium{
+        background-repeat: no-repeat;
+        background-size:contain;
     }
 }
+/*To replace the team list and hero image to fit screen*/
+@media screen and (min-width: 0px) and (max-width: 768px) {
+    #only-mobile { display: block; }
+}
 @media screen and (min-width: 769px) {
-        #only-mobile { display: none; }
-        .hero-image1-small { display: none; }
-        .fast-image1 { display: none; }
-        .fast-image2 { display: none; }
+    #only-mobile { display: none; }
+    .hero-image1-small { display: none; }
+    .fast-image1 { display: none; }
+    .fast-image2 { display: none; }
 }
       @media screen and (max-width: 1200px)  {
         #team-text, #team-list { display: none; }
@@ -351,8 +359,11 @@ hr {
         .fast-image2 { display: none; }
 }
 @media screen and (min-width: 769px) and (max-width: 1200px) {
-        #only-mobile { display: none; }
-        #team-text, #team-list { display: block; }
-        .hero-image1 { display: block; }
-        .fast-img { display: block; }
+    #only-mobile { display: none; }
+    #team-text, #team-list { display: block; 
+    height: 100%;}
+    .hero-image1 { display: block; }
+    .fast-image1 { display: none; }
+    .fast-image2 { display: none; }
+    
 }
