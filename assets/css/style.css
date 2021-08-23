@@ -47,6 +47,7 @@ h1, h2 {
 .menu a:hover{
    border-bottom: 1px solid #3a3a3a;
 }
+/*To show the page your on*/
 .active{
    border-bottom: 1px solid #3a3a3a;
 }
