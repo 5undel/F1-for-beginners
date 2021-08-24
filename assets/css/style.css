@@ -345,7 +345,8 @@ hr {
 }
 /*To replace the team list and hero image to fit screen*/
 @media screen and (min-width: 0px) and (max-width: 768px) {
-    #only-mobile { display: block; }
+    #only-mobile { display: block; 
+    padding: 0 20px 0 90px}
 }
 @media screen and (min-width: 769px) {
     #only-mobile { display: none; }
