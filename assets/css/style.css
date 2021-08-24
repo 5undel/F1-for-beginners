@@ -112,6 +112,10 @@ hr {
     padding-left: 20%;   
 }
 /*image to the fast link*/
+.link{
+    text-decoration: none;
+    color: inherit; 
+}
 .fast-img{
     max-width: 100%;
     height: auto;
