@@ -28,7 +28,13 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
 - Print
   - The font-text is Times New Roman for a clean look and easy to read.
 - Image
-  - One bid hero image on all pages which catches the visitors' eyes.
+  - One big hero image on all pages which catches the visitors' eyes.
 
 ### Wireframe
--
+- desktop
+
+
+- Tablit
+
+
+-Mobile
