@@ -7,8 +7,20 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
  
 ### Existing Features
 - __Navigation Bar__
-- Featured on all pages, full responsive navbar links to the home page, team page and race page. The navbar is the same look on all pages to make it easy to navigat.
-- The navbar makes it easily for the user to navigate from page to page on all platforms.
+  - Featured on all pages, full responsive navbar links to the home page, team page and race page. The navbar is the same look on all pages to make it easy to navigat.
+  - The navbar makes it easily for the user to navigate from page to page on all platforms.
+  ![image](https://user-images.githubusercontent.com/87757401/131007788-c4a352f8-b124-4115-8125-8aa93cf42689.png)
+
+- __What is Formula One__
+
+  - The Formula One section will allow users to read what Formula One is and get an understanding.
+   ![image](https://user-images.githubusercontent.com/87757401/131008094-5f19b85c-108d-46f4-9018-a6c828fb9d0e.png)
+
+- __Fast link__
+  - With this section, the user can get an insight into what team and race is all about
+  - The user gets an easier way to navigate
+  ![image](https://user-images.githubusercontent.com/87757401/131008491-dc36dd8c-2951-4b24-b663-a8364f2dbb6f.png)
+
 
 ### DESIGN
 - Appearance
