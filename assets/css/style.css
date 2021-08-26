@@ -165,9 +165,6 @@ hr {
     margin-bottom: 50px;
     padding-left: 30px;
 }
-#only-mobile li {
-    font-weight: bold;
-}
 /*team list on  lager screens*/
 #team-text{
     padding-top: 30px;
@@ -209,16 +206,14 @@ hr {
     text-align: center;
 }
 /* team list */
-.team-left li, .team-right li {
-    font-weight: bold;
-    font-size: 15px;
-}
-/* team list */
 .team-left ul, .team-right ul{
     display: inline-block;
     vertical-align: middle;
     padding: 0;
     margin: 0;
+}
+ul li {
+    padding-bottom: 20px;
 }
 /*race page*/
 /*hero image*/
