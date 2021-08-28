@@ -25,7 +25,7 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
 - __Team__
 
 - The team section will allow the users to get a better understanding aboute the team and see the list of all the team in the 2021 season.
-- ![image](https://user-images.githubusercontent.com/87757401/131220660-3c7cd406-c7a3-4478-8725-f9529611968c.png)
+![image](https://user-images.githubusercontent.com/87757401/131220660-3c7cd406-c7a3-4478-8725-f9529611968c.png)
 
 
 ### DESIGN
