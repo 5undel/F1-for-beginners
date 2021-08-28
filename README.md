@@ -12,7 +12,7 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
   - The navbar makes it easily for the user to navigate from page to page on all platforms.
   ![image](https://user-images.githubusercontent.com/87757401/131007788-c4a352f8-b124-4115-8125-8aa93cf42689.png)
 
-- __What is Formula One__
+- __What is Formula One__ 
 
   - The Formula One section will allow users to read what Formula One is and get an understanding.
    ![image](https://user-images.githubusercontent.com/87757401/131008094-5f19b85c-108d-46f4-9018-a6c828fb9d0e.png)
@@ -21,6 +21,11 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
   - With this section, the user can get an insight into what team and race is all about
   - The user gets an easier way to navigate
   ![image](https://user-images.githubusercontent.com/87757401/131008491-dc36dd8c-2951-4b24-b663-a8364f2dbb6f.png)
+
+- __Team__
+
+- The team section will allow the users to get a better understanding aboute the team and see the list of all the team in the 2021 season.
+- ![image](https://user-images.githubusercontent.com/87757401/131220660-3c7cd406-c7a3-4478-8725-f9529611968c.png)
 
 
 ### DESIGN
