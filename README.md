@@ -40,7 +40,7 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
 [Uploading Formula One pad.pdf…]()
 
 
--Mobile
+- Mobile
 [Formula One mobile.pdf](https://github.com/5undel/F1-for-beginners/files/7070804/Formula.One.mobile.pdf)
 
 
