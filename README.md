@@ -32,6 +32,11 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
   - The user can easely read aboute the difrent parts of the weekend
   ![image](https://user-images.githubusercontent.com/87757401/131220854-b389e3de-03ee-48b3-80f3-43c4a2e12727.png)
 
+- __Footer__
+  - User can visit us on ouer other pages like facebook and instagram
+  - User can contact us on email link
+  ![image](https://user-images.githubusercontent.com/87757401/131252185-578ae5b9-8829-4c3b-a926-34812eb59aaa.png)
+
 ### DESIGN
 - Appearance
   - The site has a clean look with the white background color.
@@ -40,13 +45,20 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
 - Image
   - One big hero image on all pages which catches the visitors' eyes.
 
+
+### TEST
+-HTML
+  - No errors were found when passing through the validator https://validator.w3.org/nu/#textarea
+- CSS 
+  - No errors were found when passing through the validator https://jigsaw.w3.org/css-validator/validator
 ### Wireframe
 - desktop
 [Formula one.zip](https://github.com/5undel/F1-for-beginners/files/7061789/Formula.one.zip)
 
 
 - Tablit
-[Uploading Formula One pad.pdf…]()
+[Formula One pad.pdf](https://github.com/5undel/F1-for-beginners/files/7072606/Formula.One.pad.pdf)
+
 
 
 - Mobile
