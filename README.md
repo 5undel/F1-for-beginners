@@ -63,6 +63,11 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
    
    - The text for the page was take from Wikipedia - https://en.wikipedia.org/wiki/Formula_One
    - The icon on the footer was taken from -  https://www.flaticon.com/
+
+- Media
+  
+  - The images on the pages are from free image site - https://unsplash.com/collections/xJZe4MSOBmc/project-f1
+  - 
  
 
 ### Wireframe
