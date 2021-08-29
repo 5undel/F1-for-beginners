@@ -57,6 +57,13 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
 
 - The live link to the page https://5undel.github.io/F1-for-beginners/
 
+### Credits 
+
+- Content
+   
+   - The text for the page was take from Wikipedia - https://en.wikipedia.org/wiki/Formula_One
+   - The icon on the footer was taken from -  https://www.flaticon.com/
+ 
 
 ### Wireframe
 - desktop
