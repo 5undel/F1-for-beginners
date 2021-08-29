@@ -45,6 +45,11 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
 - Image
   - One big hero image on all pages which catches the visitors' eyes.
 
+
+### TEST
+
+- CSS 
+  - No errors were found when passing through the official https://jigsaw.w3.org/css-validator/validator
 ### Wireframe
 - desktop
 [Formula one.zip](https://github.com/5undel/F1-for-beginners/files/7061789/Formula.one.zip)
