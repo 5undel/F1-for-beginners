@@ -50,7 +50,9 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
 -HTML
   - No errors were found when passing through the validator https://validator.w3.org/nu/?doc=https%3A%2F%2F5undel.github.io%2FF1-for-beginners%2F
 - CSS 
-  - No errors were found when passing through the validator https://jigsaw.w3.org/css-validator/validator
+  - No errors were found when passing through the validator https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F5undel.github.io%2FF1-for-beginners%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
+
+
 ### Wireframe
 - desktop
 [Formula one.zip](https://github.com/5undel/F1-for-beginners/files/7061789/Formula.one.zip)
