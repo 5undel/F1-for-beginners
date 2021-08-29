@@ -51,7 +51,8 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
 
 
 - Tablit
-[Uploading Formula One pad.pdf…]()
+[Formula One pad.pdf](https://github.com/5undel/F1-for-beginners/files/7072606/Formula.One.pad.pdf)
+
 
 
 - Mobile
