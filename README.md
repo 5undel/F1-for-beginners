@@ -67,7 +67,7 @@ F1 page is a site that will help people understand Formula 1 better.The site wil
 - Media
   
   - The images on the pages are from free image site - https://unsplash.com/collections/xJZe4MSOBmc/project-f1
-  - 
+  
  
 
 ### Wireframe
