@@ -257,12 +257,22 @@ ul li {
     height: 100px;
     padding: 0 0;
     margin: 0 auto;
-    background: #d30000;
-    border-top: #d30000 4px solid;
     bottom: 0px;
     position: inherit;
     clear: both;
-    
+    text-align: center;
+}
+.email {
+    float: left;
+    padding-left: 47%;
+}
+.media{
+    float: left;
+    padding-left: 48%;
+}
+.media-logo{
+    width: 40px;
+    height: 40px;
 }
 /*Media Q*/
 /* screen from 1200 and down*/
@@ -326,6 +336,18 @@ ul li {
       width: auto;
       height: 2.5rem;
     }
+    .email {
+        float: left;
+        padding-left: 42%;
+    }
+    .media{
+        float: left;
+        padding-left: 45%;
+    }
+    .media-logo{
+        width: 40px;
+        height: 40px;
+    }
 /*center text on mobil dev*/
     .left-side {
         float: left;
@@ -350,6 +372,18 @@ ul li {
 @media screen and (min-width: 0px) and (max-width: 320px) {
     #only-mobile { display: block; 
     padding: 0 20px 0 40px}
+    .email {
+        float: left;
+        padding-left: 30%;
+    }
+    .media{
+        float: left;
+        padding-left: 38%;
+    }
+    .media-logo{
+        width: 40px;
+        height: 40px;
+    }
 }
 @media screen and (min-width: 769px) {
     #only-mobile { display: none; }
