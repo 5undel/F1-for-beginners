@@ -20,6 +20,7 @@ F1 page is a site that will help people understand Formula 1 better. The site wi
 - __Fast link__
   - With this section, the user can get an insight into what team and race is all about
   - The user gets an easier way to navigate
+
   ![image](https://user-images.githubusercontent.com/87757401/131008491-dc36dd8c-2951-4b24-b663-a8364f2dbb6f.png)
 
 - __Team__
@@ -92,14 +93,21 @@ This [link](https://gitpod.io/#https://github.com/5undel/F1-for-beginners) will 
 
 ### Wirefram
 - desktop
+  
   ![image](assets/wireframe/desktop.png)
 
 
+
+
 - Tablet
+ 
  ![image](assets/wireframe/pad.png)
 
 
 
+
+
 - Mobile
+ 
  ![image](assets/wireframe/mobile.png)
 
