@@ -53,6 +53,7 @@ F1 page is a site that will help people understand Formula 1 better. The site wi
   ![image](assets/media/html-vali.png)
 - CSS 
   - No errors were found when passing through the validator https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F5undel.github.io%2FF1-for-beginners%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
+  ![image](assets/media/css-vali.png)
 
 - WEBBROWSER
   - The site is tested on tree diffrent browsers
