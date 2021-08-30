@@ -268,11 +268,12 @@ ul li {
 }
 .media{
     float: left;
-    padding-left: 48%;
+    padding-left: 47.2%;
 }
 .media-logo{
     width: 40px;
     height: 40px;
+    padding:10px;
 }
 /*Media Q*/
 /* screen from 1200 and down*/
@@ -342,7 +343,7 @@ ul li {
     }
     .media{
         float: left;
-        padding-left: 45%;
+        padding-left: 43%;
     }
     .media-logo{
         width: 40px;
@@ -378,7 +379,7 @@ ul li {
     }
     .media{
         float: left;
-        padding-left: 38%;
+        padding-left: 32%;
     }
     .media-logo{
         width: 40px;
