@@ -65,7 +65,7 @@ h1, h2 {
 /*hero image for smaller screens*/
 .hero-image1-small{
     background-image: url(../image/patrick-robert-doyle-SKUhsXRpSL0-unsplash.jpg);
-    height: 600px;
+    height: 300px;
     width: 100%;
     overflow: hidden;
     background-position: center;
@@ -310,7 +310,7 @@ ul li {
     }
     #formula-one{
         width: 90%;
-        height: 1200px;
+        height: 600px;
         margin: 0 auto;
     }
     .left-line, rigth-side, fast-link {
@@ -331,6 +331,7 @@ ul li {
     body{
         width: 100%;
     }
+   
     .fast-img {
       width: 100%;
     }
