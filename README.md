@@ -49,13 +49,30 @@ F1 page is a site that will help people understand Formula 1 better. The site wi
 ### TEST
 - HTML
   - No errors were found when passing through the validator https://validator.w3.org/nu/?doc=https%3A%2F%2F5undel.github.io%2FF1-for-beginners%2F
+  - Two warning where found and will be left not to fix.
 - CSS 
   - No errors were found when passing through the validator https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F5undel.github.io%2FF1-for-beginners%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
 
+- WEBBROWSER
+  - The site is tested on tree diffrent browsers
+    - Chrome 
+    
+    - Firefox
+
+    - Microssoft Edge
 
 ### Deployment
 
-- The live link to the page https://5undel.github.io/F1-for-beginners/
+This project has been deployed to GitHub Pages.
+From the repository, I went to the "Settings" tab and selected "Pages" from the sub-menu.
+Once there, I selected the "main" branch from the dropdown, and then clicked the Save button.
+The deployed site can be found [here](https://5undel.github.io/F1-for-beginners).
+​
+For local deployment, if you would like to make a clone of this repository, you can type the following command in your terminal:
+`git clone https://github.com/5undel/F1-for-beginners.git`
+​
+Alternatively, if you are using Gitpod, you can simply click on the green Gitpod button at the top of the repository, and this will create a new workspace in your Gitpod account.
+This [link](https://gitpod.io/#https://github.com/5undel/F1-for-beginners) will do the same thing for you, if you do not see the green Gitpod button.
 
 ### Credits 
 
