@@ -1,4 +1,4 @@
-pyt[Formula One pad.pdf](https://github.com/5undel/F1-for-beginners/files/7070803/Formula.One.pad.pdf)
+
 # F1
 F1 page is a site that will help people understand Formula 1 better. The site will be targeted toward those how are new to the sport and are looking for an easy explanation about Formula 1.
 ## User Experience (UX)
