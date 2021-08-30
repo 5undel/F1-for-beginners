@@ -373,13 +373,15 @@ ul li {
     .text-container,
     rigth-side,
     fast-link {
-        width: inherit;
+        text-align: center;
+        padding: 0 20px;
     }
 
     .text-container h2,
     rigth-side h2 {
-        width: 100%;
         text-align: center;
+        padding: 0 20px; 
+        
     }
 
     .text-container p,
@@ -407,12 +409,12 @@ ul li {
 
     .email {
         float: left;
-        padding-left: 42%;
+        padding-left: 50%;
     }
 
     .media {
         float: left;
-        padding-left: 43%;
+        padding-left: 50%;
     }
 
     .media-logo {
@@ -424,6 +426,16 @@ ul li {
         margin: 0;
         padding: 0;
         width: 100%;
+    }
+
+    .text-container{
+        display: block;
+        width: 80%;
+        text-align: center;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+        padding-left: 10%;
     }
 
     /*center text on mobil dev*/
@@ -449,14 +461,51 @@ ul li {
 @media screen and (min-width: 321px) and (max-width: 768px) {
     #only-mobile {
         display: block;
-        padding: 0 20px 0 90px
+        width: 80%;
+        text-align: center;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+        padding-left: 10%;
     }
+    .footer {
+        width: 100%;
+        height: 100px;
+        padding: 0 0;
+        margin: 0 auto;
+        bottom: 0px;
+        position: inherit;
+        clear: both;
+        text-align: center;
+    }
+    
+    .email {
+        float: left;
+        padding-left: 40%;
+    }
+    
+    .media {
+        float: left;
+        padding-left: 40%;
+    }
+    
+    .media-logo {
+        width: 40px;
+        height: 40px;
+        padding: 10px;
+    }
+    
 }
 
 @media screen and (min-width: 0px) and (max-width: 320px) {
     #only-mobile {
         display: block;
-        padding: 0 20px 0 40px
+        width: 80%;
+        text-align: center;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+        padding-left: 10%;
     }
 
     .email {
