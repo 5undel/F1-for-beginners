@@ -90,16 +90,16 @@ This [link](https://gitpod.io/#https://github.com/5undel/F1-for-beginners) will 
   
  
 
-### Wireframe
+### Wirefram
 - desktop
-[Formula one.zip](https://github.com/5undel/F1-for-beginners/files/7061789/Formula.one.zip)
+  [image](assets/wireframe/desktop.png)
 
 
 - Tablet
-[Formula One pad.pdf](https://github.com/5undel/F1-for-beginners/files/7072606/Formula.One.pad.pdf)
+ [image](assets/wireframe/pad.png)
 
 
 
 - Mobile
-[Formula One mobile.pdf](https://github.com/5undel/F1-for-beginners/files/7070804/Formula.One.mobile.pdf)
+ [image](assets/wireframe/mobile.png)
 
