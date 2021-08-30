@@ -75,7 +75,7 @@ h1, h2 {
 }
 /*Home page text info*/
 /*text*/
-.left-side{
+.text-wrapper{
     padding-top: 30px;
     width: 100%;
     text-align: center;
@@ -87,7 +87,7 @@ hr {
     width: 100%;
     margin: 5px;
 }
-.left-line{
+.text-container{
     width: 80%;
     text-align: center;
     line-height: 20px;
@@ -313,15 +313,15 @@ ul li {
         height: 600px;
         margin: 0 auto;
     }
-    .left-line, rigth-side, fast-link {
+    .text-container, rigth-side, fast-link {
         width: inherit;
     }
-    .left-line h2, rigth-side h2 {
+    .text-container h2, rigth-side h2 {
         width: 100%;
         text-align: center;
     }
     
-    .left-line p, rigth-side p, fast-link p{
+    .text-container p, rigth-side p, fast-link p{
         text-align: center;
         padding: 0 20px;
     }
@@ -358,7 +358,7 @@ ul li {
        width: 100%;
     }
 /*center text on mobil dev*/
-    .left-side {
+    .text-wrapper {
         float: left;
         padding: 0;
         margin: 0;   
