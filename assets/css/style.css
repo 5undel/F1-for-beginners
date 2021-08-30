@@ -3,54 +3,68 @@
     padding: 0%;
     border: none;
 }
-html, body {
+
+html,
+body {
     overflow-x: hidden;
-  }
+}
+
 body {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 300;
     color: #3a3a3a;
     position: relative
 }
-h1, h2 {
+
+h1,
+h2 {
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color:#252525;
+    color: #252525;
     padding-top: 5px;
 }
+
 /*Formula one logo*/
-.logo{
+.logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
 }
+
 /*menu and logo*/
 .menu-bar {
     font-size: 110%;
     letter-spacing: 4px;
-}   
-.menu-bar, .logo{
+}
+
+.menu-bar,
+.logo {
     line-height: 75px;
 }
+
 /*Menu on rigt side*/
 .menu li {
     float: right;
     list-style: none;
-    margin-right: 30px;    
+    margin-right: 30px;
 }
+
 .menu a {
-   text-decoration: none;
-   color: inherit; 
+    text-decoration: none;
+    color: inherit;
 }
+
 /*hovering underline on menu*/
-.menu a:hover{
-   border-bottom: 1px solid #3a3a3a;
+.menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
 }
+
 /*To show the page your on*/
-.active{
-   border-bottom: 1px solid #3a3a3a;
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
+
 /* hero image*/
 .hero-image1 {
     background-image: url(../image/gustavo-campos-B87zMorEZRo-unsplash-min.jpg);
@@ -59,35 +73,39 @@ h1, h2 {
     overflow: hidden;
     background-position: center;
     background-repeat: no-repeat;
-    background-size:100%;
-    position: relative; 
+    background-size: 100%;
+    position: relative;
 }
+
 /*hero image for smaller screens*/
-.hero-image1-small{
+.hero-image1-small {
     background-image: url(../image/patrick-robert-doyle-SKUhsXRpSL0-unsplash.jpg);
     height: 300px;
     width: 100%;
     overflow: hidden;
     background-position: center;
     background-repeat: no-repeat;
-    background-size:100%;
-    position: relative; 
+    background-size: 100%;
+    position: relative;
 }
+
 /*Home page text info*/
 /*text*/
-.text-wrapper{
+.text-wrapper {
     padding-top: 30px;
     width: 100%;
     text-align: center;
-    padding-left: 10%;  
+    padding-left: 10%;
 }
+
 /*line under text on home, team and race page*/
 hr {
-    border-top:1px solid #3a3a3a ;
+    border-top: 1px solid #3a3a3a;
     width: 100%;
     margin: 5px;
 }
-.text-container{
+
+.text-container {
     width: 80%;
     text-align: center;
     line-height: 20px;
@@ -95,48 +113,57 @@ hr {
     margin-bottom: 50px;
     padding: 0;
 }
+
 /*header*/
-#f1, h3{
+#f1,
+h3 {
     text-align: center;
 }
+
 /*h2 style*/
-#f1{
+#f1 {
     text-align: center;
     margin: 20px 0;
     font-size: 200%;
 }
+
 /*fast-link*/
-#fast-link{
-    height: 600px; 
+#fast-link {
+    height: 600px;
     width: 60%;
-    padding-left: 20%;   
+    padding-left: 20%;
 }
+
 /*image to the fast link*/
-.link{
+.link {
     text-decoration: none;
-    color: inherit; 
+    color: inherit;
 }
-.fast-img{
+
+.fast-img {
     max-width: 100%;
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative; 
-    border-radius: 40%;    
+    position: relative;
+    border-radius: 40%;
 }
-.fast-image1{
+
+.fast-image1 {
     background-image: url(../image/darren-nunis-DcPyI0LFgAA-unsplash-min.jpg);
     width: 100%;
     height: 300px;
-    
+
 }
-.fast-image2{
+
+.fast-image2 {
     background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash-min.jpg);
     width: 100%;
     height: 300px;
-    
+
 }
+
 /*TEAM PAGE*/
 /*hero image*/
 .hero-image2 {
@@ -149,15 +176,19 @@ hr {
     background-size: cover;
     position: relative;
 }
+
 #foruma-one {
     height: 400px;
 }
-#team-text, #team-list {
+
+#team-text,
+#team-list {
     height: 800px;
 }
+
 /* team list */
 /*team list on smaller screens*/
-#only-mobile{
+#only-mobile {
     width: 80%;
     text-align: center;
     line-height: 20px;
@@ -165,56 +196,68 @@ hr {
     margin-bottom: 50px;
     padding-left: 30px;
 }
+
 /*team list on  lager screens*/
-#team-text{
+#team-text {
     padding-top: 30px;
     width: 33%;
     float: left;
     text-align: center;
 }
+
 /* team list */
-.team-left{
+.team-left {
     width: 60%;
     float: right;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
 }
+
 /* team list */
-#team-list{
+#team-list {
     padding-top: 30px;
     width: 33%;
     float: right;
     text-align: center;
 }
+
 /* team list h2 */
-.team-left h2, h2{
+.team-left h2,
+h2 {
     font-size: 20px;
     text-align: center;
 }
+
 /* team list */
-.team-right{
+.team-right {
     width: 60%;
     float: left;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
 }
+
 /* team list */
-.team-right h2, h2 {
+.team-right h2,
+h2 {
     font-size: 18px;
     text-align: center;
 }
+
 /* team list */
-.team-left ul, .team-right ul{
+.team-left ul,
+.team-right ul {
     display: inline-block;
     vertical-align: middle;
     padding: 0;
     margin: 0;
 }
+
 ul li {
     padding-bottom: 20px;
 }
+
 /*Race page*/
 /*hero image*/
 .hero-image3 {
@@ -227,19 +270,21 @@ ul li {
     background-size: cover;
     position: relative;
 }
+
 /*race text*/
 /*QUALIFYING kalkyl*/
-.quali-list{
+.quali-list {
     max-width: 100%;
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative; 
-    max-width:100%;
-    height:100%;
-    overflow: hidden; 
+    position: relative;
+    max-width: 100%;
+    height: 100%;
+    overflow: hidden;
 }
+
 /*Race text*/
 /*race image*/
 .podium {
@@ -253,6 +298,7 @@ ul li {
     padding-left: 30%;
     margin-left: 15%;
 }
+
 /*footer*/
 .footer {
     width: 100%;
@@ -264,40 +310,49 @@ ul li {
     clear: both;
     text-align: center;
 }
+
 .email {
     float: left;
     padding-left: 47%;
 }
-.media{
+
+.media {
     float: left;
     padding-left: 47.2%;
 }
-.media-logo{
+
+.media-logo {
     width: 40px;
     height: 40px;
-    padding:10px;
+    padding: 10px;
 }
+
 /*Media Q*/
 /* screen from 1200 and down*/
 @media screen and (max-width: 1200px) {
-    #formula-one{
+    #formula-one {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
     }
-    #f1{
+
+    #f1 {
         padding: 30px 0;
         margin: 0;
     }
-    #left-side, #rigth-side {
+
+    #left-side,
+    #rigth-side {
         width: 100%;
         float: left;
         padding: 0;
     }
-    hr { 
+
+    hr {
         display: none;
     }
 }
+
 /* Media Q*/
 /*screen 950 and down*/
 @media screen and (max-width:950px) {
@@ -308,110 +363,177 @@ ul li {
         margin-bottom: 20px;
         line-height: 25px;
     }
-    #formula-one{
+
+    #formula-one {
         width: 90%;
         height: 600px;
         margin: 0 auto;
     }
-    .text-container, rigth-side, fast-link {
+
+    .text-container,
+    rigth-side,
+    fast-link {
         width: inherit;
     }
-    .text-container h2, rigth-side h2 {
+
+    .text-container h2,
+    rigth-side h2 {
         width: 100%;
         text-align: center;
     }
-    
-    .text-container p, rigth-side p, fast-link p{
+
+    .text-container p,
+    rigth-side p,
+    fast-link p {
         text-align: center;
         padding: 0 20px;
     }
 }
+
 /* screen 768 and down*/
 @media only screen and (max-width: 768px) {
-    body{
+    body {
         width: 100%;
-    }
-   
-    .fast-img {
-      width: 100%;
     }
 
     .fast-img {
-      width: auto;
-      height: 2.5rem;
+        width: 100%;
     }
+
+    .fast-img {
+        width: auto;
+        height: 2.5rem;
+    }
+
     .email {
         float: left;
         padding-left: 42%;
     }
-    .media{
+
+    .media {
         float: left;
         padding-left: 43%;
     }
-    .media-logo{
+
+    .media-logo {
         width: 40px;
         height: 40px;
     }
-    .podium{
+
+    .podium {
         margin: 0;
         padding: 0;
-       width: 100%;
+        width: 100%;
     }
-/*center text on mobil dev*/
+
+    /*center text on mobil dev*/
     .text-wrapper {
         float: left;
         padding: 0;
-        margin: 0;   
+        margin: 0;
     }
+
     .team-text {
         float: left;
         padding: 0;
-        margin: 0;  
+        margin: 0;
     }
-    .podium{
+
+    .podium {
         background-repeat: no-repeat;
-        background-size:contain;
+        background-size: contain;
     }
 }
+
 /*To replace the team list and hero image to fit screen*/
 @media screen and (min-width: 321px) and (max-width: 768px) {
-    #only-mobile { display: block; 
-    padding: 0 20px 0 90px}
+    #only-mobile {
+        display: block;
+        padding: 0 20px 0 90px
+    }
 }
+
 @media screen and (min-width: 0px) and (max-width: 320px) {
-    #only-mobile { display: block; 
-    padding: 0 20px 0 40px}
+    #only-mobile {
+        display: block;
+        padding: 0 20px 0 40px
+    }
+
     .email {
         float: left;
         padding-left: 30%;
     }
-    .media{
+
+    .media {
         float: left;
         padding-left: 32%;
     }
-    .media-logo{
+
+    .media-logo {
         width: 40px;
         height: 40px;
     }
 }
+
 @media screen and (min-width: 769px) {
-    #only-mobile { display: none; }
-    .hero-image1-small { display: none; }
-    .fast-image1 { display: none; }
-    .fast-image2 { display: none; }
+    #only-mobile {
+        display: none;
+    }
+
+    .hero-image1-small {
+        display: none;
+    }
+
+    .fast-image1 {
+        display: none;
+    }
+
+    .fast-image2 {
+        display: none;
+    }
 }
-      @media screen and (max-width: 1200px)  {
-        #team-text, #team-list { display: none; }
-        .hero-image1{ display: none; }
-        .fast-image1 { display: none; }
-        .fast-image2 { display: none; }
+
+@media screen and (max-width: 1200px) {
+
+    #team-text,
+    #team-list {
+        display: none;
+    }
+
+    .hero-image1 {
+        display: none;
+    }
+
+    .fast-image1 {
+        display: none;
+    }
+
+    .fast-image2 {
+        display: none;
+    }
 }
+
 @media screen and (min-width: 769px) and (max-width: 1200px) {
-    #only-mobile { display: none; }
-    #team-text, #team-list { display: block; 
-    height: 100%;}
-    .hero-image1 { display: block; }
-    .fast-image1 { display: none; }
-    .fast-image2 { display: none; }
-    
+    #only-mobile {
+        display: none;
+    }
+
+    #team-text,
+    #team-list {
+        display: block;
+        height: 100%;
+    }
+
+    .hero-image1 {
+        display: block;
+    }
+
+    .fast-image1 {
+        display: none;
+    }
+
+    .fast-image2 {
+        display: none;
+    }
+
 }
