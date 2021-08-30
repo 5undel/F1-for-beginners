@@ -91,7 +91,7 @@ This [link](https://gitpod.io/#https://github.com/5undel/F1-for-beginners) will 
   
  
 
-### Wirefram
+### Wireframe
 - desktop
   
   ![image](assets/wireframe/desktop.png)
