@@ -58,11 +58,11 @@ F1 page is a site that will help people understand Formula 1 better. The site wi
 - WEBBROWSER
   - The site is tested on tree diffrent browsers
     - Chrome 
-    [image](assets/media/chrome.png)
+    ![image](assets/media/chrome.png)
     - Firefox
-    [image](assets/media/firefox.png)
+    ![image](assets/media/firefox.png)
     - Microssoft Edge
-    [image](assets/media/edge.png)
+    ![image](assets/media/edge.png)
 
 ### Deployment
 
