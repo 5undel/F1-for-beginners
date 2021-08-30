@@ -67,7 +67,7 @@ h2 {
 
 /* hero image*/
 .hero-image1 {
-    background-image: url(../image/gustavo-campos-B87zMorEZRo-unsplash-min.jpg);
+    background-image: url(../image/gustavo-campos.jpg);
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -79,7 +79,7 @@ h2 {
 
 /*hero image for smaller screens*/
 .hero-image1-small {
-    background-image: url(../image/patrick-robert-doyle-SKUhsXRpSL0-unsplash.jpg);
+    background-image: url(../image/patrick-robert.jpg);
     height: 300px;
     width: 100%;
     overflow: hidden;
@@ -151,14 +151,14 @@ h3 {
 }
 
 .fast-image1 {
-    background-image: url(../image/darren-nunis-DcPyI0LFgAA-unsplash-min.jpg);
+    background-image: url(../image/darren-nunis-D.jpg);
     width: 100%;
     height: 300px;
 
 }
 
 .fast-image2 {
-    background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash-min.jpg);
+    background-image: url(../image/hanson-lu.jpg);
     width: 100%;
     height: 300px;
 
@@ -167,7 +167,7 @@ h3 {
 /*TEAM PAGE*/
 /*hero image*/
 .hero-image2 {
-    background-image: url(../image/darren-nunis-aKRaaHnlTMI-unsplash-min.jpg);
+    background-image: url(../image/darren-nunis.jpg);
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -261,7 +261,7 @@ ul li {
 /*Race page*/
 /*hero image*/
 .hero-image3 {
-    background-image: url(../image/hanson-lu-inVnYQoO9LI-unsplash-min.jpg);
+    background-image: url(../image/hanson-lu.jpg);
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -288,7 +288,7 @@ ul li {
 /*Race text*/
 /*race image*/
 .podium {
-    background-image: url(../image/darren-nunis-DcPyI0LFgAA-unsplash-min.jpg);
+    background-image: url(../image/darren-nunis-D.jpg);
     width: 600px;
     height: 500px;
     background-position: center;
